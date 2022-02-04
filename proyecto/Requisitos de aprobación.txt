@@ -1,0 +1,19 @@
+1_ Debe contener un navbar que navegue las diversas 
+ secciones de la web.
+
+2_ Debe contener una portada alusiva a la temática de
+ nuestra app.
+
+3_ Una sección de imágenes
+
+4_ Una sección de contacto
+
+5_ Un footer
+
+6_ Una página para loguearse
+
+7_ Una página para registrarse
+
+8_ Ser responsive
+
+9_ Estar deployado en vercel.

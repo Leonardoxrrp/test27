@@ -1,0 +1,18 @@
+body {
+    padding-top: 210px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    height: 491px;
+    width: 460px;
+    background-color: rgb(241, 188, 188);
+}
+
+.poronga {
+    display: flex;
+    flex-direction: row;
+}

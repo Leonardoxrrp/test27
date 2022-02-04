@@ -1,0 +1,4 @@
+RELATIVE: Se puede superponer y no mueve nada.  
+
+ABSOLUTE: Se puede superponer y 
+empuja a los demás elementos
